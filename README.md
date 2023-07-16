@@ -2,7 +2,7 @@
 Lego EV3 robot for mapping out the perimeter and area of a room autonomously
 
 The RenoBot was designed to aid humans in construction and renovation. Its primary function is
-to move around a space and calculate its area and perimeter. Additionally, the RenoBot will return
+to autonomously move around a space and calculate its area and perimeter. Additionally, the RenoBot will return
 information regarding the amount of material needed for that space. Finally, the RenoBot can also
 measure a specific angle, and then draw it out on paper. These functions can all be called by the main
 menu, which is a navigable interface made for the user to interact with the robot. This main menu is how
