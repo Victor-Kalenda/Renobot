@@ -898,7 +898,7 @@ void drive_to_wall(int &mode, float &initial_dist)
   	{
     	mode = 1;
   	}
-	}
+  }
 }
 
 
